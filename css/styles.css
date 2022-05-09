@@ -50,30 +50,30 @@ h6 {
   height: 120px;
 }
 .container-5 {
+    background-color: aliceblue;
   padding: 20px;
   margin: 0 15px;
 }
 .tablet-img {
   width: 22%;
-  border-radius: 10px;
+  border-radius: 25px;
   height: 185px;
-  margin-right: 20px;
-  margin-left: 20px;
+  padding: 13px
 }
 .desk-img {
   width: 22%;
-  border-radius: 10px;
-  margin-right: 20px;
+  border-radius: 25px;
+  padding: 13px
 }
 .watch-img {
   width: 22%;
-  border-radius: 10px;
-  margin-right: 20px;
+  border-radius: 25px;
+  padding: 13px
 }
 .dog-img {
   width: 22%;
-  border-radius: 10px;
-  margin-right: 20px;
+  border-radius: 25px;
+ padding: 13px;
 }
 .container-6 {
   margin: 0 15px;
