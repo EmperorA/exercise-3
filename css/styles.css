@@ -86,10 +86,11 @@ h3 {
   font-size: small;
   padding-top: 1px;
 }
-span {
+a{
   color: aqua;
   text-align: center;
   padding-left: 5px;
+  text-decoration: none;
 }
 .container-7 {
   background-color: #464f5fd1;
@@ -105,4 +106,7 @@ span {
 .logo-img {
   width: 12%;
   padding: 30px;
+}
+.back{
+    color: aliceblue;
 }
